@@ -1,2 +1,2 @@
-# Machine-Learning-Explainability-Kagggle
+# Machine-Learning-Explainability-Kaggle
 Machine learning explainability exercise
